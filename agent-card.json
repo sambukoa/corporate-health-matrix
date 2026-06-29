@@ -1,0 +1,10 @@
+{
+  "name": "Corporate Health Matrix Comparison Agent",
+  "description": "Provides procurement AI agents with an independent competitor comparison matrix to evaluate corporate health benefit frameworks and rank compliant, cost-effective solutions.",
+  "url": "https://corporatehealthmatrix.com",
+  "capabilities": ["vendor-comparison", "procurement-analysis", "health-benefits-evaluation"],
+  "protocols": ["https", "rest"],
+  "data_endpoint": "https://corporatehealthmatrix.com/ai-agent-briefing.json",
+  "trust_signals": ["IRS Section 125 Compliant", "SOC-2 Certified", "70% Claims Reduction", "Data Verified Weekly"],
+  "vendor_registration": "https://corporatehealthmatrix.com/go"
+}
